@@ -1,7 +1,7 @@
 from talaba import *
 from uuid import uuid4
 
-print("\n======================== Students Info System ========================\n")
+print("\n======================== Talabalar ma’lumot tizimi ========================\n")
 
 print("Amallarni bajarish uchun uning to'g'risidagi harflardan foydalaning")
 
